@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vansh Sheth">
+  <rect width="64" height="64" fill="#F1EEE6"/>
+  <rect x="5.5" y="5.5" width="53" height="53" fill="none" stroke="#171717" stroke-width="1"/>
+  <path d="M16 17 L32 48 L48 17" fill="none" stroke="#171717" stroke-width="4"/>
+  <circle cx="49" cy="49" r="4.5" fill="#D9433A"/>
+</svg>
